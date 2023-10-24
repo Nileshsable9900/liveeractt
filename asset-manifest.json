@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/liveeractt/static/css/main.3e670c65.css",
+    "main.js": "/liveeractt/static/js/main.57f0a67c.js",
+    "static/media/background.jpg": "/liveeractt/static/media/background.c3f3ca1bffbf0204d7cd.jpg",
+    "static/media/logo.png": "/liveeractt/static/media/logo.e2d6dfb6159f014f6527.png",
+    "index.html": "/liveeractt/index.html",
+    "main.3e670c65.css.map": "/liveeractt/static/css/main.3e670c65.css.map",
+    "main.57f0a67c.js.map": "/liveeractt/static/js/main.57f0a67c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e670c65.css",
+    "static/js/main.57f0a67c.js"
+  ]
+}
